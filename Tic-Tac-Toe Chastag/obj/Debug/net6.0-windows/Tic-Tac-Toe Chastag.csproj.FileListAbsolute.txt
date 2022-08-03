@@ -1,0 +1,18 @@
+C:\Users\Dominik Vinš\source\repos\Tic-Tac-Toe Chastag\Tic-Tac-Toe Chastag\bin\Debug\net6.0-windows\Tic-Tac-Toe Chastag.exe
+C:\Users\Dominik Vinš\source\repos\Tic-Tac-Toe Chastag\Tic-Tac-Toe Chastag\bin\Debug\net6.0-windows\Tic-Tac-Toe Chastag.deps.json
+C:\Users\Dominik Vinš\source\repos\Tic-Tac-Toe Chastag\Tic-Tac-Toe Chastag\bin\Debug\net6.0-windows\Tic-Tac-Toe Chastag.runtimeconfig.json
+C:\Users\Dominik Vinš\source\repos\Tic-Tac-Toe Chastag\Tic-Tac-Toe Chastag\bin\Debug\net6.0-windows\Tic-Tac-Toe Chastag.dll
+C:\Users\Dominik Vinš\source\repos\Tic-Tac-Toe Chastag\Tic-Tac-Toe Chastag\bin\Debug\net6.0-windows\Tic-Tac-Toe Chastag.pdb
+C:\Users\Dominik Vinš\source\repos\Tic-Tac-Toe Chastag\Tic-Tac-Toe Chastag\obj\Debug\net6.0-windows\Tic-Tac-Toe Chastag.csproj.AssemblyReference.cache
+C:\Users\Dominik Vinš\source\repos\Tic-Tac-Toe Chastag\Tic-Tac-Toe Chastag\obj\Debug\net6.0-windows\Tic_Tac_Toe_Chastag.EndingScreen.resources
+C:\Users\Dominik Vinš\source\repos\Tic-Tac-Toe Chastag\Tic-Tac-Toe Chastag\obj\Debug\net6.0-windows\Tic_Tac_Toe_Chastag.Form1.resources
+C:\Users\Dominik Vinš\source\repos\Tic-Tac-Toe Chastag\Tic-Tac-Toe Chastag\obj\Debug\net6.0-windows\Tic-Tac-Toe Chastag.csproj.GenerateResource.cache
+C:\Users\Dominik Vinš\source\repos\Tic-Tac-Toe Chastag\Tic-Tac-Toe Chastag\obj\Debug\net6.0-windows\Tic-Tac-Toe Chastag.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominik Vinš\source\repos\Tic-Tac-Toe Chastag\Tic-Tac-Toe Chastag\obj\Debug\net6.0-windows\Tic-Tac-Toe Chastag.AssemblyInfoInputs.cache
+C:\Users\Dominik Vinš\source\repos\Tic-Tac-Toe Chastag\Tic-Tac-Toe Chastag\obj\Debug\net6.0-windows\Tic-Tac-Toe Chastag.AssemblyInfo.cs
+C:\Users\Dominik Vinš\source\repos\Tic-Tac-Toe Chastag\Tic-Tac-Toe Chastag\obj\Debug\net6.0-windows\Tic-Tac-Toe Chastag.csproj.CoreCompileInputs.cache
+C:\Users\Dominik Vinš\source\repos\Tic-Tac-Toe Chastag\Tic-Tac-Toe Chastag\obj\Debug\net6.0-windows\Tic-Tac-Toe Chastag.dll
+C:\Users\Dominik Vinš\source\repos\Tic-Tac-Toe Chastag\Tic-Tac-Toe Chastag\obj\Debug\net6.0-windows\refint\Tic-Tac-Toe Chastag.dll
+C:\Users\Dominik Vinš\source\repos\Tic-Tac-Toe Chastag\Tic-Tac-Toe Chastag\obj\Debug\net6.0-windows\Tic-Tac-Toe Chastag.pdb
+C:\Users\Dominik Vinš\source\repos\Tic-Tac-Toe Chastag\Tic-Tac-Toe Chastag\obj\Debug\net6.0-windows\Tic-Tac-Toe Chastag.genruntimeconfig.cache
+C:\Users\Dominik Vinš\source\repos\Tic-Tac-Toe Chastag\Tic-Tac-Toe Chastag\obj\Debug\net6.0-windows\ref\Tic-Tac-Toe Chastag.dll
